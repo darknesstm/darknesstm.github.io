@@ -4,16 +4,16 @@
 
 # Site
 title: 虫米共欢
-subtitle: ''
+subtitle: '中老年程序员的个人博客'
 description: ''
-keywords:
+keywords: Java, Programming, 日常, 生活
 author: DarknessTM
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://chongme.net
+url: https://chongmi.net/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,3 +102,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+since: 2025
